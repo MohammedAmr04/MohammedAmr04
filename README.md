@@ -1,73 +1,83 @@
-<img width="250" align="right" src="https://camo.githubusercontent.com/0269a14e7cd538be31627954fcf6cd73f032ab406ad93b9f0340b738c26179a8/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033352f3639332f3635362f6f726967696e616c2f6777796e6574682d62616c7563696f2d68656c6c6f2d776f726c642e6769663f31363135363432383737">
+# 👋 Welcome to Mohammed Amr's GitHub Profile!
 
-<h3 align="center">
-  Welcome to Mohammed Amr's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+Hi, I'm **Mohammed Amr**, a Software Engineer with a Bachelor's degree in Computer Science from Helwan University, Egypt. I'm passionate about building scalable web applications and exploring innovative technologies like **React**, **Node.js**, and **Spring Boot**.
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3A5E45&width=480&lines=Front-end+developer;Always+interested+in+Knowledge" alt="Typing SVG" />
-  </a>
-</p>
+## About Me
+I'm a Software Engineer with a B.Sc. in Computer Science from Helwan University, Egypt. I enjoy diving into full-stack development and learning about cutting-edge tools and frameworks to create efficient and modern solutions.
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedAmr04&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAmr04&layout=compact&theme=radical)
 
-## Hi, I'm Mohammed Amr 👋
+## Technologies
+Here are the technologies I'm working with:
 
-I'm a final-year Computer Science student at Helwan University. Passionate about technology and collaborating on projects that make a difference.
+- **Frontend**:  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+- **Backend**:  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+  ![F#](https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white)  
+- **Tools**:  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+  ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)  
 
-### 🏢 About Me
-- **Web Development Enthusiast**  
-- Always learning new technologies in **Artificial Intelligence (AI)** and **Front-end Development**.
+## Technologies & Languages
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="20" alt="bootstrap logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="20" alt="npm logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="mysql logo" />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="20" alt="sql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="20" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="20" alt="spring boot logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="20" alt="dotnet logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="20" alt="fsharp logo" />
+  <img width="12" />
 
-### 👨‍💻 Continuous Learning
-As a CS student, I keep exploring new technologies and improving my skills. My areas of interest include:
-- **Web Development**
-- **Artificial Intelligence (AI)**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="20" alt="sql server logo" />
+</div>
 
-### 💬 Ask Me About
-- **Front-end Development**: React.js
-- **Programming Languages**: C++, HTML, CSS, SQL, JavaScript, Java, Python, PHP
-- Tips and insights related to web development.
+## Skills
+- **Frontend**: React, JavaScript, HTML, CSS, TypeScript, Bootstrap, Next.js
+- **Backend**: Node.js, Express, Spring Boot, .NET, F#, Python, Django, PHP
+- **Databases**: MySQL, MongoDB
+- **Tools**: Git, Docker, npm
+- **Others**: Full-Stack Development, Web Application Architecture
 
----
+## Projects
+<!-- Add your projects here -->
 
-<p align="center" style="padding: 10px;">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=MohammedAmr04&show_icons=true&theme=dracula&count_private=true" />
-</p>
+## Get in Touch
+- 📧 Email: [mohammedamr200497@gmail.com]
+- 🔗 LinkedIn: [Mohammed Amr](https://www.linkedin.com/in/mohammed-amr-33ba93243/)
+- 🐦 Twitter/X: [@usually_brazily](https://x.com/usually_brazily)
 
-<p align="center"> 
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedAmr04&theme=dracula" />
-</p>
-
----
-
-### ⚡ Fun Facts
-- I love playing football!
-- I enjoy reading books and playing games.
-- Traveling is one of my favorite activities.
-
----
-
-### 🛠 &nbsp;Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-
----
-
-### 📫 Connect with Me
-<a href="www.linkedin.com/in/mohammed-amr97" target="_blank">
-  <img src="https://img.shields.io/badge/Mohammed%20Amr-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/xx_albrzaily_xx" target="_blank">
-  <img src="https://img.shields.io/badge/-Mohammed%20Amr-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
----
