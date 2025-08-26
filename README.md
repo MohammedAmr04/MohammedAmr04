@@ -7,7 +7,7 @@ I'm a Software Engineer with a B.Sc. in Computer Science from Helwan University,
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedAmr04&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAmr04&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=MohammedAmr04&theme=highcontrast&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MohammedAmr04&theme=dark)](https://git.io/streak-stats)
 ## Technologies
 Here are the technologies I'm working with:
 
