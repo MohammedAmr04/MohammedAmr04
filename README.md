@@ -66,8 +66,8 @@ Here are the technologies I'm working with:
 </div>
 
 ## Skills
-- **Frontend**: React, JavaScript, HTML, CSS, TypeScript, Bootstrap, Next.js
-- **Backend**: Node.js, Express, Spring Boot, .NET, F#, Python, Django, PHP
+- **Frontend**: React, JavaScript, HTML, CSS, TypeScript, TailwindCSS, Bootstrap, Next.js
+- **Backend**: Node.js, Express, Spring Boot, .NET, F#, Python, Flask, Django, PHP
 - **Databases**: MySQL, MongoDB
 - **Tools**: Git, Docker, npm
 - **Others**: Full-Stack Development, Web Application Architecture
