@@ -3,7 +3,8 @@
      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o4MHYwYzV1a3hiZXN4OHRxcnhpeXp3MGliZ3FmN2E2Z2RoZDR0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpeYSEZshTefe/giphy.gif" />
 </div>
 
-Hi, I'm **Mohammed Amr**, a Software Engineer with a Bachelor's degree in Computer Science from Helwan University, Egypt. I'm passionate about building scalable web applications and exploring innovative technologies like **React**, **Node.js**, and **Spring Boot**.
+Hi, I'm **Mohammed Amr**, a Software Engineer with a Bachelor's degree in Computer Science from Helwan University, Egypt. I'm passionate about building scalable web applications and exploring innovative technologies like **React**, 
+**Next.js**, **Node.js**, and **Spring Boot**.
 
 ## About Me
 I'm a Software Engineer with a B.Sc. in Computer Science from Helwan University, Egypt. I enjoy diving into full-stack development and learning about cutting-edge tools and frameworks to create efficient and modern solutions.
