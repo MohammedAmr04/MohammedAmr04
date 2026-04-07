@@ -1,87 +1,56 @@
-# 👋 Welcome to Mohammed Amr's GitHub Profile!
-<div align="center">
-     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o4MHYwYzV1a3hiZXN4OHRxcnhpeXp3MGliZ3FmN2E2Z2RoZDR0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpeYSEZshTefe/giphy.gif" />
-</div>
+# Mohammed Amr
+**Front-End Developer** specialized in building clean, responsive, and high-performance web applications with **Next.js, React, and TypeScript**. Based in Cairo.
 
-Hi, I'm **Mohammed Amr**, a Software Engineer with a Bachelor's degree in Computer Science from Helwan University, Egypt. I'm passionate about building scalable web applications and exploring innovative technologies like **React**, 
-**Next.js**, **Node.js**, and **Spring Boot**.
+Currently working on **healthcare dashboards** at evyX and passionate about scalable UIs and exceptional user experiences.
+---
+## What I Build
+I design and ship production-grade frontend systems — from complex healthcare dashboards to full e-commerce platforms and AI-powered digital products. I focus on performance, clean architecture, reusable components, and pixel-perfect user interfaces.
 
-## About Me
-I'm a Software Engineer with a B.Sc. in Computer Science from Helwan University, Egypt. I enjoy diving into full-stack development and learning about cutting-edge tools and frameworks to create efficient and modern solutions.
+- **Core Stack** — Next.js, React, TypeScript, Tailwind CSS
+- **State Management** — Redux Toolkit, Zustand, React Context
+- **UI Libraries** — Shadcn/ui, Ant Design
+- **Tools** — Git, Docker, Vite, RESTful APIs, Jitsi Meet SDK
+- **Methodologies** — Agile/Scrum, OOP, Performance Optimization, Responsive Design
+---
+## Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedAmr04&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAmr04&layout=compact&theme=radical)
-## Technologies
-Here are the technologies I'm working with:
+### [Tebbi Admin Dashboard](https://play.google.com/store/apps/details?id=com.tebbi.evyx) — Healthcare Platform
+Production Admin Dashboard for Tebbi (طبي) healthcare ecosystem. Full management of doctors, appointments, clinics, and home medical services with real-time video consultations via Jitsi Meet.  
+> **Next.js • React • TypeScript**
 
-- **Frontend**:  
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-- **Backend**:  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-  ![F#](https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white)  
-- **Tools**:  
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-  ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)  
+### [Toldio E-commerce Platform](https://market.tolido-group.com/en) — Freelance Project
+Full-stack multi-region e-commerce platform with bilingual support (AR/EN), CRM, role-based access, and dynamic content management.  
+> **Next.js • Node.js • MongoDB • Tailwind • Ant Design**
 
-## Technologies & Languages
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="20" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="20" alt="npm logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="mysql logo" />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="20" alt="sql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="20" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="20" alt="spring boot logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="20" alt="dotnet logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="20" alt="fsharp logo" />
-  <img width="12" />
+### [Ktabook Smart eBook Platform](https://github.com/MohammedAmr04/front-end-graduation) — University Project
+AI-powered digital library and social book exchange platform with text-to-speech, personalized recommendations, and automated content moderation.  
+> **.NET • React • Flask**
+---
+## Experience Highlights
+- **evyX** (Cairo) — *Front-End Developer*  
+  Built and maintained production healthcare dashboards (Tebbi & Eyadat). Integrated **Jitsi Meet** for real-time video consultations and architected a modular component system that improved code reusability by **40%**.
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="20" alt="sql server logo" />
-</div>
+- **Buguard** — *Front-End Developer Intern (Remote)*  
+  Independently delivered **100%** of assigned tasks. Developed responsive admin dashboards and designed a reusable component system that enhanced code reusability by **30%**.
 
-## Skills
-- **Frontend**: React, JavaScript, HTML, CSS, TypeScript, TailwindCSS, Bootstrap, Next.js
-- **Backend**: Node.js, Express, Spring Boot, .NET, F#, Python, Flask, Django, PHP
-- **Databases**: MySQL, MongoDB
-- **Tools**: Git, Docker, npm
-- **Others**: Full-Stack Development, Web Application Architecture
-[![committers.top badge](https://user-badge.committers.top/egypt/MohammedAmr04.svg)](https://user-badge.committers.top/egypt/MohammedAmr04)
+---
+## Tech Stack
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B67F?style=flat&logo=tailwindcss&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/Shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=zustand&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat&logo=antdesign&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jitsi Meet](https://img.shields.io/badge/Jitsi%20Meet-2D7CFF?style=flat&logo=jitsi&logoColor=white)
 
-## Projects
-<!-- Add your projects here -->
+---
+## Let's Connect
+I'm actively looking for **Front-End / Software Engineer** roles (Cairo or Remote).
 
-## Get in Touch
-- 📧 Email: [mohammedamr200497@gmail.com]
-- 🔗 LinkedIn: [Mohammed Amr](https://www.linkedin.com/in/mohammed-amr-33ba93243/)
-- 🐦 Twitter/X: [@usually_brazily](https://x.com/usually_brazily)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedamr)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MohammedAmr04)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mohammedamr200497@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+20%201101352017-34A853?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201101352017)
