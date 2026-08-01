@@ -1,38 +1,6 @@
 # Mohammed Amr
 **Front-End Developer** specialized in building clean, responsive, and high-performance web applications with **Next.js, React, and TypeScript**. Based in Cairo.
 
-Currently working on **healthcare dashboards** at evyX and passionate about scalable UIs and exceptional user experiences.
----
-## What I Build
-I design and ship production-grade frontend systems — from complex healthcare dashboards to full e-commerce platforms and AI-powered digital products. I focus on performance, clean architecture, reusable components, and pixel-perfect user interfaces.
-
-- **Core Stack** — Next.js, React, TypeScript, Tailwind CSS
-- **State Management** — Redux Toolkit, Zustand, React Context
-- **UI Libraries** — Shadcn/ui, Ant Design
-- **Tools** — Git, Docker, Vite, RESTful APIs, Jitsi Meet SDK
-- **Methodologies** — Agile/Scrum, OOP, Performance Optimization, Responsive Design
----
-## Featured Projects
-
-### [Tebbi Admin Dashboard](https://play.google.com/store/apps/details?id=com.tebbi.evyx) — Healthcare Platform
-Production Admin Dashboard for Tebbi (طبي) healthcare ecosystem. Full management of doctors, appointments, clinics, and home medical services with real-time video consultations via Jitsi Meet.  
-> **Next.js • React • TypeScript**
-
-### [Toldio E-commerce Platform](https://market.tolido-group.com/en) — Freelance Project
-Full-stack multi-region e-commerce platform with bilingual support (AR/EN), CRM, role-based access, and dynamic content management.  
-> **Next.js • Node.js • MongoDB • Tailwind • Ant Design**
-
-### [Ktabook Smart eBook Platform](https://github.com/MohammedAmr04/front-end-graduation) — University Project
-AI-powered digital library and social book exchange platform with text-to-speech, personalized recommendations, and automated content moderation.  
-> **.NET • React • Flask**
----
-## Experience Highlights
-- **evyX** (Cairo) — *Front-End Developer*  
-  Built and maintained production healthcare dashboards (Tebbi & Eyadat). Integrated **Jitsi Meet** for real-time video consultations and architected a modular component system that improved code reusability by **40%**.
-
-- **Buguard** — *Front-End Developer Intern (Remote)*  
-  Independently delivered **100%** of assigned tasks. Developed responsive admin dashboards and designed a reusable component system that enhanced code reusability by **30%**.
-
 ---
 ## Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
